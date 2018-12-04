@@ -1,0 +1,15 @@
+.Layout{
+    display: flex;
+    width:100%;
+}
+
+.Orders{
+    width:70%;
+    /* display: inline; */
+}
+
+.Items{
+    width:30%;
+    /* float: left; */
+    /* display: inline; */
+}
